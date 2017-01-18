@@ -1,1 +1,1 @@
-# py-calculator-1
+# py-calculator
